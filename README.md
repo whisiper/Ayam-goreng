@@ -1,2 +1,2 @@
-# Ayam-goreng\
+# Ayam-goreng
 Ayam-goreng
